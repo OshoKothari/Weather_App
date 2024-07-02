@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "astro",
+    "avghumidity",
+    "avgtemp",
+    "avgvis",
+    "feelslike",
+    "forecastday",
+    "localtime",
+    "maxtemp",
+    "maxwind",
+    "mintemp",
+    "totalprecip",
+    "totalsnow",
+    "unfocus"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
